@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the repository, BiomedCLIP, Mammo-CLIP, and the datasets CBIS-DDSM, INbreast, and VinDr-Mammo."
+title: "KG-TPCA: Knowledge-Graph-Enhanced Text Prompt Learning with Cross-View Consistency for Mammography Diagnosis"
+version: "1.0.0"
+date-released: "2026-08-21"
+authors:
+  - name: "Du Tongchun"
+license: MIT

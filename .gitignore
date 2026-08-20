@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Data and experiment outputs
+data/raw/
+data/processed/
+data/smoke/
+outputs/
+runs/
+wandb/
+*.npz
+*.npy
+*.parquet
+*.pth
+*.pt
+*.ckpt
+
+# Large downloaded model artifacts
+external/
+external*.zip
+*.weights.zip
+BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/
+Mammo-CLIP/
+Mammo-CLIP-src/
+
+# Local agent/editor state
+.agents/
+.claude/
+.codex/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,15 @@
+torch
+torchvision
+open_clip_torch==2.23.0
+transformers
+timm
+omegaconf
+pyyaml
+pydicom
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+pillow
+tqdm
